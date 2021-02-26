@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55238579814",
+    "project_id": "family-faces-2c9e1",
+    "storage_bucket": "family-faces-2c9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55238579814:android:040aa53cfb16fcec017fa7",
+        "android_client_info": {
+          "package_name": "com.example.familyfaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55238579814-2bsc77glirginnbusal969tjkp4f1u7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBySvCG1df9iQtULNopQ855zClVS-zXIJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55238579814-2bsc77glirginnbusal969tjkp4f1u7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
